@@ -1,3 +1,2 @@
 # Hello World
-<br>
-# Practice time
+Practice time
